@@ -19,5 +19,6 @@
 		<module>frontend</module>
 		<module>backend</module>
 		<module>resource</module>
+		<module>auth</module>
 	</modules>
 </project>
